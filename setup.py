@@ -7,8 +7,8 @@ with open("requirements.txt") as f:
     requirements = f.read().splitlines()
 
 setup(
-    name="package_name",
-    version="0.0.1",
+    name="package_Proc_Image",
+    version="0.0.2",
     author="Alessandra Galvão da Silva",
     author_email="alessandragalvao@id.uff.br",
     description="Versão de teste - Processamento de imagem. Este projeto pertence a Karina Tiemi Kato, Tech Lead, Machine Learning Engineer, Data Scientist Specialist da Take. ",
@@ -17,5 +17,5 @@ setup(
     url="https://github.com/AlessandraGalvao/dio-image-processing-package.git"
     packages=find_packages(),
     install_requires=requirements,
-    python_requires='>=3.8',
+    python_requires='>=3.9',
 )
