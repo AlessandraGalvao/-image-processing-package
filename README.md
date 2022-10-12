@@ -30,3 +30,8 @@ from image-processing-test.processing import combination
 combination.find_difference(image1, image2)
 
 ![image](https://user-images.githubusercontent.com/33034037/195414939-d32faac3-c1e7-437e-bd45-5acb14e1e876.png)
+
+Autor (quem hospedou o projeto no Test Pypi)
+Alessandra Galvão da Silva
+Licença
+MIT
